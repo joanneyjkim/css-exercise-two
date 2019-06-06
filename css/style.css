@@ -81,10 +81,10 @@ a {
   text-decoration: none;
 }
 
-a:link { color:#0070BB; }
-a:visited { color:#0070BA; }
-a:hover { color:#0070BC; }
-a:active { color:#0070BD; }
+a:link { color:#60008e; }
+a:visited { color:#ffffff; }
+a:hover { color:#60008e; }
+a:active { color:#ffffff; }
 
 article {
   padding-top: 100px;
@@ -95,12 +95,12 @@ article {
   width: 70%;
 }
 
-.storytext {
-  line-height: 200%;
+.story-text {
+  line-height: 120%;
 }
 
 p {
   text-indent: 2%;
   padding-bottom: 1%;
-  text-align: left;
+  text-align: left
 }
